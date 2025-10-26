@@ -1,6 +1,6 @@
-# Valentine's Day 2025 - Interactive Love Confession Page 💕
+# Interactive Love Confession Page 💕
 
-A beautiful, interactive Valentine's Day web page with a fun "Do you love me?" question and special effects.
+A beautiful, interactive web page with a fun "Do you love me?" question and special effects.
 
 ## Features ✨
 
@@ -38,9 +38,9 @@ The page is fully responsive and works great on:
 
 ## License 📄
 
-Free to use and modify for your own Valentine's Day surprises!
+Free to use and modify for your own surprises!
 
 ---
 
-Made with ❤️ for Valentine's Day 2025
+Made with ❤️
 
